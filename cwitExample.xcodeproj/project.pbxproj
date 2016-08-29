@@ -407,7 +407,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = cwitExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.hpe.usps.mobility.cwitExample;
+				PRODUCT_BUNDLE_IDENTIFIER = com.karnett.cwitExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -418,7 +418,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = cwitExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.hpe.usps.mobility.cwitExample;
+				PRODUCT_BUNDLE_IDENTIFIER = com.karnett.cwitExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -488,6 +488,7 @@
 				BA2FECD81D74AC46006CF227 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BA2FECD91D74AC46006CF227 /* Build configuration list for PBXNativeTarget "cwitExampleTests" */ = {
 			isa = XCConfigurationList;
@@ -496,6 +497,7 @@
 				BA2FECDB1D74AC46006CF227 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BA2FECDC1D74AC46006CF227 /* Build configuration list for PBXNativeTarget "cwitExampleUITests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +506,7 @@
 				BA2FECDE1D74AC46006CF227 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
