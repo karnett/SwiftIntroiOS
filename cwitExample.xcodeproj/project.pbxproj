@@ -15,6 +15,7 @@
 		BA2FECBC1D74AC46006CF227 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA2FECBA1D74AC46006CF227 /* LaunchScreen.storyboard */; };
 		BA2FECC71D74AC46006CF227 /* cwitExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2FECC61D74AC46006CF227 /* cwitExampleTests.swift */; };
 		BA2FECD21D74AC46006CF227 /* cwitExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2FECD11D74AC46006CF227 /* cwitExampleUITests.swift */; };
+		BA9B5C2C1D760F7600E87113 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA9B5C2B1D760F7600E87113 /* WelcomeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		BA2FECCD1D74AC46006CF227 /* cwitExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cwitExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA2FECD11D74AC46006CF227 /* cwitExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cwitExampleUITests.swift; sourceTree = "<group>"; };
 		BA2FECD31D74AC46006CF227 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BA9B5C2B1D760F7600E87113 /* WelcomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				BA2FECAE1D74AC46006CF227 /* AppDelegate.swift */,
 				BA2FECB01D74AC46006CF227 /* ViewController.swift */,
+				BA9B5C2B1D760F7600E87113 /* WelcomeViewController.swift */,
 				BA2FECB21D74AC46006CF227 /* Main.storyboard */,
 				BA2FECB81D74AC46006CF227 /* Assets.xcassets */,
 				BA2FECBA1D74AC46006CF227 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA2FECB11D74AC46006CF227 /* ViewController.swift in Sources */,
+				BA9B5C2C1D760F7600E87113 /* WelcomeViewController.swift in Sources */,
 				BA2FECB71D74AC46006CF227 /* cwitExample.xcdatamodeld in Sources */,
 				BA2FECAF1D74AC46006CF227 /* AppDelegate.swift in Sources */,
 			);
