@@ -55,7 +55,4 @@ class WelcomeViewController: UIViewController {
             //if you need to do anything when view finishes dismissing, do it here.
         })
     }
-    
-    
-    
 }
