@@ -24,7 +24,8 @@ class ViewController: UIViewController {
         //Any setup code here before the view shows to the user
         
         //customize color for welcome label
-        self.welcomeLabel.textColor = UIColor.greenColor()
+        self.welcomeLabel.textColor = UIColor.redColor()
+        self.submitButton.setTitleColor(UIColor.redColor(), forState: .Normal)
 
     }
 
