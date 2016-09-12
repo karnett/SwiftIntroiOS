@@ -4,6 +4,10 @@ Code examples from my "Swift Introduction to iOS" session for Columbus Women in 
 
 Slides coming soon.
 
+## Slides
+
+Available at [SpeakerDeck](https://speakerdeck.com/kimberlyarnett/iosintroslides)
+
 ## Getting Started
 
 Download this project and open it in in Xcode.
