@@ -34,7 +34,7 @@ class WelcomeViewController: UIViewController {
         }
     }
     
-    func loadImage(hasName: Bool) {
+    func loadImage(_ hasName: Bool) {
         
         if hasName {
             
@@ -49,9 +49,9 @@ class WelcomeViewController: UIViewController {
         }
     }
     
-    @IBAction func dismissBtnPressed(sender: AnyObject) {
+    @IBAction func dismissBtnPressed(_ sender: AnyObject) {
         
-        self.dismissViewControllerAnimated(true, completion: {
+        self.dismiss(animated: true, completion: {
             //if you need to do anything when view finishes dismissing, do it here.
         })
     }
