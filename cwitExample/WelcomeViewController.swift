@@ -16,11 +16,11 @@ class WelcomeViewController: UIViewController {
     
     @IBOutlet var profileImage: UIImageView!
     
-    var name: String?  //? Means this value can be nil
+    @objc var name: String?  //? Means this value can be nil
     
-    let images: [String] = ["puppy", "horse", "zebra", "whale", "lion"]  //An array of image names (Strings). "let" means this is a constant and cannot change.
+    @objc let images: [String] = ["puppy", "horse", "zebra", "whale", "lion"]  //An array of image names (Strings). "let" means this is a constant and cannot change.
     
-    let noImage = "noimage" //image name if no name was available.
+    @objc let noImage = "noimage" //image name if no name was available.
     
     override func viewDidLoad() {
         
@@ -34,7 +34,7 @@ class WelcomeViewController: UIViewController {
         }
     }
     
-    func loadImage(_ hasName: Bool) {
+    @objc func loadImage(_ hasName: Bool) {
         
         if hasName {
             

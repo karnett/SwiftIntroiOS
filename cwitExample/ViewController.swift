@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     @IBOutlet var submitButton: UIButton!
     
     //variables
-    let segueIdentifer = "welcome"
+    @objc let segueIdentifer = "welcome"
     
     override func viewDidLoad() {
         super.viewDidLoad()
