@@ -18,8 +18,8 @@ Download this project and open it in in Xcode.
 ## Author
 
 **Kim Arnett** 
-[@kimberlypilbeam](http://www.twitter.com/kimberlypilbeam)
-[Kim Arnett](https://kimarnett.com)
+*[@kimberlypilbeam](http://www.twitter.com/kimberlypilbeam)
+*[Website & Blog](https://kimarnett.com)
 
 ## License
 
