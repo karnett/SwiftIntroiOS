@@ -1,8 +1,6 @@
 # CWIT
 
-Code examples from my "Swift Introduction to iOS" session for Columbus Women in Technology. Sept 2016
-
-Slides coming soon.
+Code examples from my "Swift Introduction to iOS" session. Originally put together for Columbus Women in Technology - Sept 2016
 
 ## Slides
 
@@ -14,12 +12,14 @@ Download this project and open it in in Xcode.
 
 ## Built With
 
-* Swift - 2.2
-* Xcode - 7.3.1
+* Swift - 4.0
+* Xcode - 9.2
 
-## Authors
+## Author
 
-* **Kim Arnett** - [@kimberlypilbeam](http://www.twitter.com/kimberlypilbeam)
+**Kim Arnett** 
+[@kimberlypilbeam](http://www.twitter.com/kimberlypilbeam)
+[Kim Arnett](https://kimarnett.com)
 
 ## License
 
