@@ -1,9 +1,4 @@
-//
-//  WelcomeViewController.swift
-//  cwitExample
-//
-//  Created by Kim Arnett on 8/30/16.
-//  Copyright © 2016 HPE USPS Mobility. All rights reserved.
+//  Copyright © Kim Arnett. All rights reserved.
 //
 
 import Foundation
