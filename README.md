@@ -1,6 +1,6 @@
-# CWIT
+# A Swift Intro to iOS
 
-Code examples from my "Swift Introduction to iOS" session. Originally put together for Columbus Women in Technology - Sept 2016
+Next level code example for A Swift Intro to iOS. 
 
 ## Slides
 
@@ -12,13 +12,13 @@ Download this project and open it in in Xcode.
 
 ## Built With
 
-* Swift - 4.0
-* Xcode - 9.2
+* Swift - 4.2.1
+* Xcode - 10.1
 
 ## Author
 
 **Kim Arnett** 
-* [@kimberlypilbeam](http://www.twitter.com/kimberlypilbeam)
+* [@kaydacode](http://www.twitter.com/kaydacode)
 * [Website & Blog](https://kimarnett.com)
 
 ## License
