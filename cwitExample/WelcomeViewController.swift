@@ -1,6 +1,3 @@
-//  Copyright © Kim Arnett. All rights reserved.
-//
-
 import Foundation
 import UIKit
 

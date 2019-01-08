@@ -10,7 +10,6 @@
 		BA2FECAF1D74AC46006CF227 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2FECAE1D74AC46006CF227 /* AppDelegate.swift */; };
 		BA2FECB11D74AC46006CF227 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2FECB01D74AC46006CF227 /* ViewController.swift */; };
 		BA2FECB41D74AC46006CF227 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA2FECB21D74AC46006CF227 /* Main.storyboard */; };
-		BA2FECB71D74AC46006CF227 /* cwitExample.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BA2FECB51D74AC46006CF227 /* cwitExample.xcdatamodeld */; };
 		BA2FECB91D74AC46006CF227 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA2FECB81D74AC46006CF227 /* Assets.xcassets */; };
 		BA2FECBC1D74AC46006CF227 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA2FECBA1D74AC46006CF227 /* LaunchScreen.storyboard */; };
 		BA2FECC71D74AC46006CF227 /* cwitExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2FECC61D74AC46006CF227 /* cwitExampleTests.swift */; };
@@ -40,7 +39,6 @@
 		BA2FECAE1D74AC46006CF227 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BA2FECB01D74AC46006CF227 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		BA2FECB31D74AC46006CF227 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		BA2FECB61D74AC46006CF227 /* cwitExample.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = cwitExample.xcdatamodel; sourceTree = "<group>"; };
 		BA2FECB81D74AC46006CF227 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BA2FECBB1D74AC46006CF227 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BA2FECBD1D74AC46006CF227 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -108,7 +106,6 @@
 				BA2FECB81D74AC46006CF227 /* Assets.xcassets */,
 				BA2FECBA1D74AC46006CF227 /* LaunchScreen.storyboard */,
 				BA2FECBD1D74AC46006CF227 /* Info.plist */,
-				BA2FECB51D74AC46006CF227 /* cwitExample.xcdatamodeld */,
 			);
 			path = cwitExample;
 			sourceTree = "<group>";
@@ -267,7 +264,6 @@
 			files = (
 				BA2FECB11D74AC46006CF227 /* ViewController.swift in Sources */,
 				BA9B5C2C1D760F7600E87113 /* WelcomeViewController.swift in Sources */,
-				BA2FECB71D74AC46006CF227 /* cwitExample.xcdatamodeld in Sources */,
 				BA2FECAF1D74AC46006CF227 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -522,19 +518,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCVersionGroup section */
-		BA2FECB51D74AC46006CF227 /* cwitExample.xcdatamodeld */ = {
-			isa = XCVersionGroup;
-			children = (
-				BA2FECB61D74AC46006CF227 /* cwitExample.xcdatamodel */,
-			);
-			currentVersion = BA2FECB61D74AC46006CF227 /* cwitExample.xcdatamodel */;
-			path = cwitExample.xcdatamodeld;
-			sourceTree = "<group>";
-			versionGroupType = wrapper.xcdatamodel;
-		};
-/* End XCVersionGroup section */
 	};
 	rootObject = BA2FECA31D74AC46006CF227 /* Project object */;
 }
